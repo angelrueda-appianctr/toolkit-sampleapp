@@ -10,8 +10,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "@umituz/react-native-image": "^1.1.0",
     "react": "19.0.0",
-    "react-native": "0.79.2"
+    "react-native": "0.79.2",
+    "react-native-awesome-gallery": "^0.4.3",
+    "react-native-gesture-handler": "^2.29.1",
+    "react-native-reanimated": "^3.19.4",
+    "react-native-zoom-toolkit": "^5.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
